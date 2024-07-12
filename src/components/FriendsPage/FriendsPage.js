@@ -8,14 +8,14 @@ class FriendsPage extends React.Component {
             <h1>Пригласите друзей!</h1>
             <h2>Вы и ваш друг получите бонусы</h2>
             <div className='invitesInfo'>
-                <img width="50px" height="50px" src='/build/img/белподарок.png'/>
+                <img width="50px" height="50px" src='img/белподарок.png'/>
                 <div className='invitesText' >
                     <h3>Пригласить друга</h3>
                     <p><span>+5 000</span> для вас и вашего друга</p>
                 </div>
             </div>
             <div className='invitesInfo secondInvitesInfo'>
-                <img width="50px" height="50px" src='/build/img/чернподарок.png'/>
+                <img width="50px" height="50px" src='img/чернподарок.png'/>
                 <div className='invitesText'>
                     <h3>Пригласить друга с Telegram Premium</h3>
                     <p><span>+25 000</span> для вас и вашего друга</p>
