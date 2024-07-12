@@ -20,8 +20,8 @@ const MinePage  = () =>  {
             <AllTokens/>
             <MyLeague/>
             <div className='cards'>
-                <Card showFullCardPage = {showFullCardPage} imgSrc='../img/монетка.png' title='License Europe' text='Получите профессиональную юридическую консультацию или оценку вашего бизнеса' profit='942' lvl='9' price='16,61M' />
-                <Card showFullCardPage = {showFullCardPage} imgSrc='../img/монетка.png' title='License America' text='Получите профессиональную юридическую консультацию или оценку вашего бизнеса' profit='942' lvl='9' price='16,61M' />
+                <Card showFullCardPage = {showFullCardPage} imgSrc='https://citovichartem.github.io/build/img/монетка.png' title='License Europe' text='Получите профессиональную юридическую консультацию или оценку вашего бизнеса' profit='942' lvl='9' price='16,61M' />
+                <Card showFullCardPage = {showFullCardPage} imgSrc='https://citovichartem.github.io/build/img/монетка.png' title='License America' text='Получите профессиональную юридическую консультацию или оценку вашего бизнеса' profit='942' lvl='9' price='16,61M' />
                 <Card />
                 <Card />
                 <Card />

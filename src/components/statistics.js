@@ -19,7 +19,7 @@ class Statistics extends React.Component {
                 <div className="clickProfit tooltip">
                     <p className='TextInfo'>Прибыль за тап</p>
                     <div className="picvalue ">
-                        <img width="15px" src='img/монетка.png'></img>
+                        <img width="15px" src='https://citovichartem.github.io/build/img/монетка.png'></img>
                         <p>{this.state.clickProfit}</p>
                         <span className='tooltiptext'>{this.state.firstTip} </span>
                     </div>
@@ -35,7 +35,7 @@ class Statistics extends React.Component {
                 <div className="hourProfit tooltip">
                     <p className='TextInfo'>Прибыль в час</p>
                     <div className="picvalue">
-                        <img width="15px" src='img/монетка.png'></img>
+                        <img width="15px" src='https://citovichartem.github.io/build/img/монетка.png'></img>
                         <p>{this.state.hourProfit}</p>
                         <span className='tooltiptext'>{this.state.thirdTip} </span>
                     </div>

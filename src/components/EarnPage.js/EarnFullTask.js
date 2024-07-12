@@ -32,61 +32,61 @@ const EarnFullTask =({imgSrc, title, text , setShowFirstTask}) => {
                     <div className='dailyGridBlock'>
                         <div>
                             <span>День 1</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>500</span>
                         </div>
 
                         <div>
                             <span>День 2</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>1K</span>
                         </div>
 
                         <div>
                             <span>День 3</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>2,5K</span>
                         </div>
 
                         <div>
                             <span>День 4</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>5K</span>
                         </div>
 
                         <div>
                             <span>День 5</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>15K</span>
                         </div>
 
                         <div>
                             <span>День 6</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>25K</span>
                         </div>
 
                         <div>
                             <span>День 7</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>100K</span>
                         </div>
 
                         <div>
                             <span>День 8</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>500K</span>
                         </div>
 
                         <div>
                             <span>День 9</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>1M</span>
                         </div>
 
                         <div>
                             <span>День 10</span>
-                            <img className='MoneyInDayBlock' src='img/монетка20.png' />
+                            <img className='MoneyInDayBlock' src='https://citovichartem.github.io/build/img/монетка20.png' />
                             <span>5M</span>
                         </div>
                         

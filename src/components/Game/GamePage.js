@@ -6,7 +6,7 @@ class GamePage extends React.Component {
     render() {
         return(
             <section id="GamePage" className='GamePage'>
-                <img width="50px" src="img/монетка.png"/>
+                <img width="50px" src="https://citovichartem.github.io/build/img/монетка.png"/>
                 <h1>GamePAGE</h1>
                 <p>Раздел в разработке</p>
             </section>
