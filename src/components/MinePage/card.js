@@ -21,7 +21,7 @@ const Card =({imgSrc, title, text, profit, lvl, price, showFullCardPage}) => {
     )
 }
 Card.defaultProps = {
-    imgSrc: '/build/img/игра.png',
+    imgSrc: '../img/игра.png',
     title: 'KYC',
     text: 'Внедрите проверку "Знай своего клиента" для идентификации пользователей',
     profit: '2,26K',
