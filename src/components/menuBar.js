@@ -7,7 +7,7 @@ const MenuBar = ({ showAirdropPage, showExchangePage, showFriendsPage, showEarnP
                 <li>
                     <a href='#' className='GameMenu' onClick={showGamePage}>
                         <div className='ForImage'>
-                            <img width="35px"  src='../img/игра.png'/>
+                            <img width="35px"  src='/build/img/игра.png'/>
                         </div>
                         <p>Game</p>
                     </a>
