@@ -12,7 +12,7 @@ const EarnTask =({imgSrc, title, text, showFirstTaskPage}) => {
     )
 }
 EarnTask.defaultProps = {
-    imgSrc: 'img/монетка.png',
+    imgSrc: '/build/img/монетка.png',
     title: 'SomeTitle',
     text: '+666'
 }

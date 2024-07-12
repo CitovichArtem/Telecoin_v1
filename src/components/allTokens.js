@@ -13,7 +13,7 @@ class AllTokens extends React.Component {
     render() {
         return(
             <section className='AllTokens'>
-                <img width="50px" src='img/монетка.png'/>
+                <img width="50px" src='/build/img/монетка.png'/>
                 <p id='TextAllTokens' className='TextAllTokens'>{Intl.NumberFormat('ru-RU').format(this.state.allTokens)}</p>
             </section>
     )}
