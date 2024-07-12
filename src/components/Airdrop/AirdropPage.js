@@ -6,7 +6,7 @@ class AirdropPage extends React.Component {
     render() {
         return(
             <section id="AirdropPage" className='AirdropPage'>
-                <img className='topImg' width="50px" src="img/монетка.png"/>
+                <img className='topImg' width="50px" src="/build/img/монетка.png"/>
                 <h1>Приготовьтесь, Airdrop уже скоро!</h1>
                 <ul>
                     <li><span>Переговоры с биржами</span></li>
